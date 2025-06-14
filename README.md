@@ -1,0 +1,1 @@
+the randomizer file is essentially the backend of this poject that actually carries out all the calculations, views has the files for what you'll be seeing. later im gonna add a public folder that will contain style files and images
