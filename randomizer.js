@@ -15,6 +15,8 @@ app.use(express.static('public'));
 app.get('/', (req, res) => {
     res.render('startmenu')
 })
+
+
 app.listen(
     port,
     () => console.log(`system is now operational`),
